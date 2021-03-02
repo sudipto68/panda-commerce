@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 20px;
+    padding:10px;
+}
+.image-div img{
+height:230px;
+width: 230px;
+margin: 20px;
+padding:10px;
+}
